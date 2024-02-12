@@ -1,8 +1,9 @@
 # Quiz App 
 
 # Overview
-    An innovative and interactive quiz application crafted with Android Java. This project is tailored to deliver users a fluid 
-    quiz-taking journey, showcasing the prowess of Android Java in crafting captivating user interfaces.
+    An innovative and interactive quiz application crafted with Android Java. This project is tailored 
+    to deliver users a fluid quiz-taking journey, showcasing the prowess of Android Java in crafting 
+    captivating user interfaces.
 
 # Features
 <li>Multiple-choice questions with instant feedback.</li>
